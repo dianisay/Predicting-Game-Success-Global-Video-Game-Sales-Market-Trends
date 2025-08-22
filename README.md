@@ -10,8 +10,7 @@ We analyze industry trends and create actionable insights that could guide **mar
 
 ## 📂 Dataset
 **Cloud Services:** AWS S3 (data hosting and retrieval).
-Source: `games.csv`  
-[Download](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv)
+Source: `games.csv`  [Download](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv)
 
 https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv
 Main fields:
